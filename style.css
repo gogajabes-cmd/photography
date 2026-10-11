@@ -4,13 +4,17 @@ font-weight: 600;
 }
 body{
     background-color: rgb(24, 238, 209);
-    overflow: ;
+    display: inline;border-left: 1px solid #000;
+    padding: rgb(139, 76, 76);
+    border-radius: 4px;
+    text-decoration: none;
+    margin: 0.5rem;
 }
 p{
    color: blue;
    border-bottom: 0dvh;
 }
-header p em{
+em{
     font-style: italic;
     color: rgb(83, 13, 13);
 }
