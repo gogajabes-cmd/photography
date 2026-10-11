@@ -6,8 +6,9 @@ body{
     background-color: rgb(24, 238, 209);
     overflow: ;
 }
-p1{
-    color: rgb(14, 10, 6);
+p{
+   color: blue;
+   border-bottom: 0dvh;
 }
 header p em{
     font-style: italic;
