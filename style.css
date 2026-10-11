@@ -18,5 +18,13 @@ em{
     font-style: italic;
     color: rgb(83, 13, 13);
 }
-
+footer{
+    text-align: center;
+    padding: 1.5rem;
+    background-color: aliceblue;
+    color: azure;
+    border-top: 2pxs solid #000;
+    margin-top: 3rem;
+    display: block;
+}
 
