@@ -10,6 +10,16 @@ body{
     padding: 0;
     line-height: 1.6;
     display: block; /* blocl element rule*/
+    figure{
+        display: block;
+        background-color: beige;
+        padding: 20px;
+        border: 1px solid #ffff;
+        border-radius: 8px;
+        text-align: center;
+        box-shadow: #4b5564;
+        transition: transform 0.2s ease;
+    }
 p{
     font-size: 1rem;
     color: #4b5564;
