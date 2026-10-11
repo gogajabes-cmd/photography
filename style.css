@@ -1,6 +1,9 @@
 h1{
 font-style:normal;
+font-weight: 600;
 }
 body{
     background-color: rgb(24, 238, 209);
+    overflow: ;
 }
+
