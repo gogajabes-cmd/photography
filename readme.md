@@ -12,3 +12,12 @@ Jabes's photo gallery is a personal photography and designed to showcase collect
 - photo gallery
 - warm welcome
 - custom css stylesheet
+
+## technologies used 
+- html
+- css
+
+## gallery categories
+- travel & tour
+- safari kenya
+
