@@ -21,11 +21,8 @@ body{
         transition: transform 0.2s ease;
     }
 p{
-    font-size: 1rem;
-    color: #4b5564;
-    line-height: 1.6;
-    margin-bottom: 1rem;
 
+    
 }
 em{
     font-style: italic;
@@ -35,7 +32,7 @@ footer{
     text-align: center;
     padding: 1.5rem;
     background-color: aliceblue;
-    color: azure;
+    color: rgb(8, 41, 41);
     border-top: 2pxs solid #000;
     margin-top: 3rem;
     display: block;
