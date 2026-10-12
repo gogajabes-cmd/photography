@@ -7,3 +7,8 @@ Jabes Goga
 
 ## Description
 Jabes's photo gallery is a personal photography and designed to showcase collection of favorite travel photos 
+
+## features
+photo gallery
+warm welcome
+custom css stylesheet
