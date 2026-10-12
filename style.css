@@ -25,6 +25,7 @@ p{
     color: #4b5564;
     line-height: 1.6;
     margin-bottom: 1rem;
+
 }
 em{
     font-style: italic;
@@ -39,4 +40,20 @@ footer{
     margin-top: 3rem;
     display: block;
 }
+.story-section {
+    background-color: hsla(34, 76%, 39%, 0.952);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 900px;
+    border: 1px solid #030813;
+    border-radius: 8px;
+    text-align: left;
+}
 
+.story-section h2 {
+    color: #1e3a8a;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #3b82f6;
+    padding-bottom: 5px;
+}
