@@ -51,3 +51,60 @@ footer{
     border-bottom: 2px solid #3b82f6;
     padding-bottom: 5px;
 }
+/* Contact Section1 Container */
+.contact-section1 {
+    background-color: #ffffff;
+    padding: 25px;
+    margin: 30px auto;
+    max-width: 800px;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+/* Section Title */
+.contact-section1 h2 {
+    color: #1e3a8a;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #3b82f6;
+    padding-bottom: 5px;
+}
+
+/* Input Fields & Textarea Styling */
+.contact-section1 input[type="text"],
+.contact-section1 input[type="email"],
+.contact-section1 textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+    font-size: 0.95rem;
+    box-sizing: border-box; /* Prevents input fields from overflowing */
+}
+
+/* Focus State (Pseudo-class rule) */
+.contact-section1 input:focus,
+.contact-section1 textarea:focus {
+    border-color: #3b82f6;
+    outline: none;
+}
+
+/* Submit Button Styling */
+.contact-section1 button {
+    background-color: #2563eb;
+    color: #ffffff;
+    padding: 10px 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+/* Button Hover State (Pseudo-class rule) */
+.contact-section1 button:hover {
+    background-color: #1d4ed8;
+}
